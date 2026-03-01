@@ -1,0 +1,21 @@
+{
+    "appId": "id.devbk.ibadahku",
+    "appName": "IbadahKu",
+    "webDir": "out",
+    "bundledWebRuntime": false,
+    "plugins": {
+        "SplashScreen": {
+            "launchShowDuration": 3000,
+            "launchAutoHide": false,
+            "backgroundColor": "#10b981",
+            "androidSplashResourceName": "splash",
+            "androidScaleType": "CENTER_CROP",
+            "showSpinner": true,
+            "androidSpinnerStyle": "large",
+            "iosSpinnerStyle": "small",
+            "spinnerColor": "#ffffff",
+            "splashFullScreen": true,
+            "splashImmersive": true
+        }
+    }
+}

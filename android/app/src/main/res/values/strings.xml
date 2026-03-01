@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">IbadahKu</string>
+    <string name="title_activity_main">IbadahKu</string>
+    <string name="package_name">id.devbk.ibadahku</string>
+    <string name="custom_url_scheme">id.devbk.ibadahku</string>
+</resources>
