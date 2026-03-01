@@ -68,5 +68,5 @@ File APK akan tersedia di folder `android/app/build/outputs/apk/debug/`.
 Proyek ini dikembangkan oleh **DEV BK**. Semua hak cipta dilindungi.
 
 ---
-Dikembangkan dengan ❤️ untuk Ummat.
+
 *@2026 DEV BK, IbadahKu*
